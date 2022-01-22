@@ -1,2 +1,2 @@
-# Python-Programs
-Basic Programs using Python language
+# C-Programs
+Basic Programs using C language
